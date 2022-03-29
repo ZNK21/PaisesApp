@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQIkXzhO9ikssB+P7trUkV5DaxqBO2o96IuWWkDjrgTF+8DJ3wFsTuy9/gYBZBVtJ1rpcVs2/dORNPy4MuS/9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vince\\source\\repos\\PaisesApp\\PaisesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vince\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
